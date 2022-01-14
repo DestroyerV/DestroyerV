@@ -31,3 +31,7 @@ or <a href="mailto:mishravaibhav12321@gmail.com"><b>email</b></a> me.
 <a href="https://forum.xda-developers.com/m/destroyer_v.11763307/" target="_blank"><img src="https://img.shields.io/badge/XDA-black.svg?&style=flat-square&logo=xda-developers" alt="XDA"></a>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
