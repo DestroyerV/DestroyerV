@@ -20,14 +20,14 @@ or <a href="mailto:mishravaibhav12321@gmail.com"><b>email</b></a> me.
 <div align="center">
 <h2>Stats:</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DestroyerV&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DestroyerV's Github Stats">
+</div>
 
-</br>
-</br>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=DestroyerV&theme=dark&date_format=j%20M%5B%20Y%5D&stroke=4275DD6E&ring=DD6000C5&fire=DD2727&currStreakNum=DDD080&sideNums=039C36D4&currStreakLabel=DD2727&sideLabels=996600&dates=81759CB3)](https://git.io/streak-stats)"/></p>
+<hr>
+
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
----
+<hr>
 
 <i>Follow me around the web:</i><br>
 
