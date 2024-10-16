@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 
 👨‍💻 I’m a passionate web developer with expertise in JavaScript, particularly in the MERN stack and Next.js. I enjoy building dynamic web applications and exploring the latest technologies in the field.
 
